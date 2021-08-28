@@ -1,2 +1,4 @@
 # OnboardingScreen
- Flutter ile splash screen ve onboarding screen tasarımı
+ Flutter ile Splashscreen ve Onboardingscreen tasarımı
+ FLutter Students Clup 29.08.2021
+ 
